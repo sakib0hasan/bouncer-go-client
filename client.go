@@ -1,4 +1,4 @@
-package boucer
+package bouncer
 
 import (
 	"errors"

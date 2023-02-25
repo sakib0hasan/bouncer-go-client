@@ -1,4 +1,4 @@
-package boucer
+package bouncer
 
 type GetCreditResponse struct {
 	Credits int `json:"credits"`
