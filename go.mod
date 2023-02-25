@@ -1,4 +1,4 @@
-module bouncer-go-client
+module github.com/sakib0hasan/bouncer-go-client
 
 go 1.19
 
